@@ -1,1 +1,1 @@
-## Summary - Clean Code Book
+## Summary - Clean Code Book - English Version
